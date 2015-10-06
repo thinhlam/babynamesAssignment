@@ -1,0 +1,17 @@
+{
+  "name": "zalora.frontend",
+  "version": "1.0.0",
+  "description": "Design a frontend using this API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --harmony app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Rubio <eric.rubio@zalora.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
+}
